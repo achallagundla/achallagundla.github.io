@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Anuhya Challagundla
-title: MLH Coach
+title: Information Systems Major @ UMBC
 email: anuhyac1@umbc.edu
 phone: 917-488-4489
 #website: Your website (eg. https://google.com)(optional)
@@ -15,12 +15,6 @@ facebook_username: achallag
 linkedin_username: a-chall
 twitter_username: mlhacks
 github_username:  achallagundla
-#dribbble_username: jekyll
-#flickr_username: jekyll
-#xing_username: jekyll
-#pinterest_username: jekyll
-#youtube_username: jekyll
-#googleplus_username: +jekyll
 
 # About Section
 # about_title: About Me (Use this to override about section title)
