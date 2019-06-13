@@ -4,7 +4,16 @@
   link: "https://mlh.io/coaches"
   job_title: Hackathon Evangelist
   dates: January 2019 - present
-  quote: |
+  include_newlines: |
+            exactly as you see
+            will appear these three
+            lines of poetry
+
+  fold_newlines: >
+            this is really a
+            single line of text
+            despite appearances
+  quote:|
     - Regularly attend student computer programming competitions as official representative of national organizing body, Major League Hacking (MLH) 
     - Act as primary primary point of contact for university, student & faculty volunteers, and event attendees while on-site 
     - Public speaking experience in front of 600+ people 
