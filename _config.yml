@@ -25,13 +25,13 @@ about_content: | # this will include new lines to allow paragraphs
  I have experience in software and web development, data management, and customer service. My skill set would be of value in a team environment 
  where I can contribute through my work ethic, academic accomplishments and the desire to develop new skills and to always learn.
 
-Experience Section
+#Experience Section
 experience_title: Experience #(Use this to override about experience section title)
 
-Projects Section
+#Projects Section
 projects_title: Projects #(Use this to override about projects section title)
 
-Education Section
+#Education Section
 education_title: Education #(Use this to override about education section title)
 
 # More Section
