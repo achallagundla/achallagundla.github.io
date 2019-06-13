@@ -4,15 +4,17 @@
   link: "https://mlh.io/coaches"
   job_title: Hackathon Evangelist
   dates: January 2019 - present
-  include_newlines: |
-            exactly as you see
-            will appear these three
-            lines of poetry
+  name: Martin D'vloper
+  education: |
+    4 GCSEs
+    3 A-Levels
+    BSc in the Internet of Things
+  quote: >
+   Short description of the company (optional)
+  description: |
+    Description of role
 
-  fold_newlines: >
-            this is really a
-            single line of text
-            despite appearances
+  
 - layout: left
   company: Company name
   link: Link to company (optional)
