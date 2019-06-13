@@ -2,14 +2,23 @@
 - layout: left
   name: University of Maryland, Baltimore County
   dates: 2017-2021
-  qualification: (BS) in Information Technology
+  qualification: (BS) in Information Technology | Current GPA of 3.2/4
   quote: >
-    Current GPA of 3.2/4
   description: | 
+  
+- layout: left
+  name: Applications and Research Laboratory
+  dates: 2015-2017
+  qualification: Computer Networking and PC Systems
+  quote: >
+    CompTIA A+ Certified 
+  description: | 
+  
 - layout: left
   name: Marriotts Ridge High School
   dates: 2013-2017
-  qualification: Graduated with Honnors
+  qualification: Graduated with Honors | Weighted GPA of 4.5/5
   quote: >
-    Weighted GPA of 4.5/5
   description: | 
+
+
