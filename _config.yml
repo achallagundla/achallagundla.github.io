@@ -37,8 +37,7 @@ education_title: Education #(Use this to override about education section title)
 # More Section
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  When I not at a hackathon on a weekend, I am usually either rehersing for dance or catching up on some of my fav netflix shows.
-  
+ Coming Soon
 
 # Footer
 footer_show_references: true
